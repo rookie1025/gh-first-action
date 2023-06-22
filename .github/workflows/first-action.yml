@@ -13,5 +13,5 @@ jobs:
         run: echo "done.. bye"
       - name: third stage
         run: |
-        echo "testing the limits"
-        yum install httpd
+          echo "testing the limits"
+          yum install httpd
