@@ -14,4 +14,4 @@ jobs:
       - name: third stage
         run: |
           echo "testing the limits"
-          yum install nginx
+          apt install nginx
