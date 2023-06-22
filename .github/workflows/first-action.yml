@@ -14,4 +14,3 @@ jobs:
       - name: third stage
         run: |
           echo "testing the limits"
-          apt install nginx
