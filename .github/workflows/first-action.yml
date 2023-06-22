@@ -6,8 +6,8 @@ jobs:
     steps:
       - name: print greeting
         run: |
-            echo "hello world"
-            pwd
-            which echo
+          echo "hello world"
+          pwd
+          which echo
       - name: printgoodbye
         run: echo "done.. bye"
